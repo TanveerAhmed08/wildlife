@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UFT-8"?>
+
+<?xml-stylesheet href="style.css"?>
+<maintag>
+
+
+<unorder>
+<merinavbar>
+  <listitem><anchor class="active" href="#home">Home</anchor></listitem>
+  <listitem><anchor href="#news">News</anchor></listitem>
+  <listitem><anchor href="#contact">Contact</anchor></listitem>
+  <listitem><anchor href="#about">About</anchor></listitem>
+  <listitem><anchor href="#service">Our Services</anchor></listitem>
+</merinavbar>
+</unorder>
+<heading>Diversity Of Wild Animals</heading>
+<para>Wildlife refers to all the living organisms that exist in their natural habitat without the interference of humans. It includes animals, plants, and microorganisms that are found in forests, grasslands, wetlands, and oceans. Wildlife plays a crucial role in maintaining the balance of the ecosystem and providing various benefits to humans. Unfortunately, due to human activities, many wildlife species are facing extinction, and their habitats are being destroyed his essay will discuss the importance of wildlife conservation, the threats to wildlife, and the conservation efforts that are being undertaken to protect them.</para>
+<parent>
+<child1></child1>
+<child2></child2>
+<child3></child3>
+</parent>
+
+
+
+
+</maintag>
